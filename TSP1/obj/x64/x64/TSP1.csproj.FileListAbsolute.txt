@@ -1,0 +1,6 @@
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\x64\x64\TSP1.exe.config
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\x64\x64\TSP1.exe
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\bin\x64\x64\TSP1.pdb
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\x64\x64\TSP1.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\x64\x64\TSP1.exe
+C:\Users\Przemek\Documents\Visual Studio 2015\Projects\PEA\TSP1\TSP1\obj\x64\x64\TSP1.pdb
